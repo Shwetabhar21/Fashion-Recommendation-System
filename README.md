@@ -24,3 +24,10 @@ The goal of this project is to develop a system that can recommend fashion items
     * `os`
     * `PIL` (Python Imaging Library)
     * `matplotlib`
+
+## Analysis
+
+The project focuses on the initial steps of a fashion recommendation system:
+
+* **Data Extraction**: The notebook extracts image data from the `women-fashion.zip` file.
+* **Data Exploration**: The notebook displays sample images from the extracted data.
