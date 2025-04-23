@@ -31,3 +31,4 @@ The project focuses on the initial steps of a fashion recommendation system:
 
 * **Data Extraction**: The notebook extracts image data from the `women-fashion.zip` file.
 * **Data Exploration**: The notebook displays sample images from the extracted data.
+* **Image Recommendation**: If the user provides an image from outside the dataset, the system can still use the images within the dataset to provide recommendations.
